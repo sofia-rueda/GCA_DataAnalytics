@@ -26,26 +26,11 @@ This repository features a curated set of data analytics projects showcasing my 
 * **YouTube Trending Content Study** – Uncovered trends in viral video characteristics across categories and engagement levels.
 
 ### Tableau Projects
-Exploring the [`UNESCO/`](./Sofia_Rueda-M2_UNESCO-Student.twbx) World Heritage List
+* **Exploring the UNESCO WHC Heritage List** - Built interactive Tableau dashboards to explore site classifications, endangered status, and geographic patterns in global heritage data.
 
+* **Forbes and the Pay Gap in Hollywood** - Analyzed Forbes data (2005–2020) to visualize gender-based pay disparities among top actors. Built comparative dashboards of earnings and compensation trends.
 
-Built interactive Tableau dashboards to explore site classifications, endangered status, and geographic patterns in global heritage data.
-Used map views and filters to allow for region-specific insights and pattern discovery.
-
-Forbes and the Pay Gap in Hollywood
-File: Sofia-Rueda_M3_Forbes_HighestPaidCelebrities-Student.twbx
-
-Analyzed Forbes celebrity earnings data (2005–2020) to highlight gender-based pay disparities.
-Developed comparative dashboards to visualize trends, earnings gaps, and representation among top-paid actors.
-
-Data Visualization as Storytelling
-File: Sofia_Rueda-M4_VisualizationStoryTelling-Student.twbx
-
-Designed Tableau dashboards using datasets on:
-Average height by country
-Music sales over time
-Video game genre popularity
-Applied principles of data storytelling to make patterns accessible and engaging for a general audience.
+* **Data Visualization as Storytelling** - Designed Tableau visualizations across multiple global datasets, including average height, music sales, and video game genres, using data storytelling to present trends and insights.
 
 
 #### Side Projects
