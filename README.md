@@ -26,8 +26,8 @@ This repository features a curated set of data analytics projects showcasing my 
 * **YouTube Trending Content Study** – Uncovered trends in viral video characteristics across categories and engagement levels.
 
 ### Tableau Projects
-Exploring the UNESCO World Heritage List
-File: Sofia_Rueda-M2_UNESCO-Student.twbx
+Exploring the [`UNESCO/`](./Sofia_Rueda-M2_UNESCO-Student.twbx) World Heritage List
+
 
 Built interactive Tableau dashboards to explore site classifications, endangered status, and geographic patterns in global heritage data.
 Used map views and filters to allow for region-specific insights and pattern discovery.
