@@ -25,7 +25,7 @@ This repository features a curated set of data analytics projects showcasing my 
 * **Warby Parker Landing Page Test** – Evaluated web design effectiveness through A/B testing and user survey data.
 * **YouTube Trending Content Study** – Uncovered trends in viral video characteristics across categories and engagement levels.
 
-### Tableau Projects
+### [`Tableau/`](.Tableau) Projects
 * **Exploring the UNESCO WHC Heritage List** - Built interactive Tableau dashboards to explore site classifications, endangered status, and geographic patterns in global heritage data.
 
 * **Forbes and the Pay Gap in Hollywood** - Analyzed Forbes data (2005–2020) to visualize gender-based pay disparities among top actors. Built comparative dashboards of earnings and compensation trends.
