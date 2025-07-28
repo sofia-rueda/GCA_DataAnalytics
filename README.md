@@ -14,9 +14,9 @@ This repository features a curated set of data analytics projects showcasing my 
 
 ---
 
-### Featured Projects
+#### Featured Projects
 
-#### [`Milestones/`](./Milestones)
+### [`Milestones/`](./Milestones)
 
 * **ASICS Referral Campaign Analysis** – Measured the impact of a customer referral program on new users and repeat purchases.
 * **H\&M A/B Test – Email Subject Line** – Assessed subject line performance using open rates and statistical significance testing.
