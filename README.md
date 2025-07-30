@@ -34,6 +34,8 @@ This repository features a curated set of data analytics projects showcasing my 
 
 *  **Investigating UFO Sightings with Calculated Fields** -Built calculated fields and visualized trends in UFO sightings, uncovering insights on sighting locations, durations, times of day, and commonly reported shapes across countries and states.
 
+* **Super Bowl Analysis** -Joined and analyzed multi-source Super Bowl datasets to explore trends in TV ratings, ad costs, and game competitiveness, creating calculated fields to classify game outcomes and assess advertising value over time.
+
 
 #### Side Projects
 
