@@ -32,9 +32,11 @@ This repository features a curated set of data analytics projects showcasing my 
 
 * **Data Visualization as Storytelling** - Designed Tableau visualizations across multiple global datasets, including average height, music sales, and video game genres, using data storytelling to present trends and insights.
 
-*  **Investigating UFO Sightings with Calculated Fields** -Built calculated fields and visualized trends in UFO sightings, uncovering insights on sighting locations, durations, times of day, and commonly reported shapes across countries and states.
+*  **Investigating UFO Sightings with Calculated Fields** - Built calculated fields and visualized trends in UFO sightings, uncovering insights on sighting locations, durations, times of day, and commonly reported shapes across countries and states.
 
-* **Super Bowl Analysis** -Joined and analyzed multi-source Super Bowl datasets to explore trends in TV ratings, ad costs, and game competitiveness, creating calculated fields to classify game outcomes and assess advertising value over time.
+* **Super Bowl Analysis** - Joined and analyzed multi-source Super Bowl datasets to explore trends in TV ratings, ad costs, and game competitiveness, creating calculated fields to classify game outcomes and assess advertising value over time.
+
+*  **NYC Green Taxi Fares Analysis** - Analyzed NYC taxi trip data in Tableau by creating calculated fields, histograms, and bar charts to uncover fare distribution patterns, rate types, trip distances, and tipping behavior per mile.
 
 
 #### Side Projects
