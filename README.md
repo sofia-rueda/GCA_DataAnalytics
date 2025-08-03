@@ -38,7 +38,7 @@ This repository features a curated set of data analytics projects showcasing my 
 
 *  **NYC Green Taxi Fares Analysis** - Analyzed NYC taxi trip data in Tableau by creating calculated fields, histograms, and bar charts to uncover fare distribution patterns, rate types, trip distances, and tipping behavior per mile.
 
-*   ** Billboard Hits & Spotify Analysis** - Built interactive visualizations using parameters to explore genre trends, track popularity, and audio feature relationships in Billboard and Spotify data, including dynamic visualizations of genre proportions and custom audio feature comparisons.
+*   **Billboard Hits & Spotify Analysis** - Built interactive visualizations using parameters to explore genre trends, track popularity, and audio feature relationships in Billboard and Spotify data, including dynamic visualizations of genre proportions and custom audio feature comparisons.
 
 
 #### Side Projects
